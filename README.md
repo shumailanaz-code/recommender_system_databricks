@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Overview
 
-This project builds a **collaborative filtering-based recommender system** using the [Steam 200k dataset](#) (provided via Blackboard). The dataset captures users' purchasing and playing behavior on the Steam video game platform and is analyzed using **Apache Spark** and **MLlib ALS (Alternating Least Squares)** in a Databricks environment.
+This project builds a **collaborative filtering-based recommender system** using the Steam 200k dataset. The dataset captures users' purchasing and playing behavior on the Steam video game platform and is analyzed using **Apache Spark** and **MLlib ALS (Alternating Least Squares)** in a Databricks environment.
 
 The recommender system is trained to predict game preferences and suggest personalized recommendations based on implicit user feedback.
 
